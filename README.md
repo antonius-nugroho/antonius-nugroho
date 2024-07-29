@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with Python, SQL, Tableu, and Looker Studio
 - 💞️ I’m looking to collaborate on Data analyst and visualization project
 - 📫 Anyone can reach me by email: antonius.w.nugroho@gmail.com
-- 😄 Pronouns: ...
+- 🤠 Pronouns: ...
 - ⚡ Fun fact: "I love analytical thinking"
 
 <!---
